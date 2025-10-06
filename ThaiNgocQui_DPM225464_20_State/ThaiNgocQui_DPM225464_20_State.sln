@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThaiNgocQui_DPM225464_Pattern20_State", "ThaiNgocQui_DPM225464_Pattern20_State\ThaiNgocQui_DPM225464_Pattern20_State.csproj", "{1C58738E-50A6-408C-A625-1B8D6EAA9227}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThaiNgocQui_DPM225464_Real20_State", "ThaiNgocQui_DPM225464_Real20_State\ThaiNgocQui_DPM225464_Real20_State.csproj", "{1BB819B9-DEC4-45E5-AEAD-6BE6C4BBA9A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C58738E-50A6-408C-A625-1B8D6EAA9227}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C58738E-50A6-408C-A625-1B8D6EAA9227}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C58738E-50A6-408C-A625-1B8D6EAA9227}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C58738E-50A6-408C-A625-1B8D6EAA9227}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BB819B9-DEC4-45E5-AEAD-6BE6C4BBA9A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BB819B9-DEC4-45E5-AEAD-6BE6C4BBA9A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BB819B9-DEC4-45E5-AEAD-6BE6C4BBA9A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BB819B9-DEC4-45E5-AEAD-6BE6C4BBA9A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95C3D9D7-D26E-4755-84E2-D8B2EE1E294D}
+	EndGlobalSection
+EndGlobal
