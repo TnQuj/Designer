@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThaiNgocQui_DPM225464_Pattern12_Proxy", "ThaiNgocQui_DPM225464_Pattern12_Proxy\ThaiNgocQui_DPM225464_Pattern12_Proxy.csproj", "{5B81EBBF-8417-48AF-A27C-9A68327CC399}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThaiNgocQui_DPM225464_Real12_Proxy", "ThaiNgocQui_DPM225464_Real12_Proxy\ThaiNgocQui_DPM225464_Real12_Proxy.csproj", "{07BA1D95-628D-4850-A374-9358CD640A15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B81EBBF-8417-48AF-A27C-9A68327CC399}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B81EBBF-8417-48AF-A27C-9A68327CC399}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B81EBBF-8417-48AF-A27C-9A68327CC399}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B81EBBF-8417-48AF-A27C-9A68327CC399}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07BA1D95-628D-4850-A374-9358CD640A15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07BA1D95-628D-4850-A374-9358CD640A15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07BA1D95-628D-4850-A374-9358CD640A15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07BA1D95-628D-4850-A374-9358CD640A15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C98871A-D95D-408B-BD19-C90393002E1A}
+	EndGlobalSection
+EndGlobal
