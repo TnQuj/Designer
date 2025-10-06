@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThaiNgocQui_DPM225464_Pattern07_Bridge", "ThaiNgocQui_DPM225464_Pattern07_Bridge\ThaiNgocQui_DPM225464_Pattern07_Bridge.csproj", "{371FE144-BD8D-4F0F-A04C-C4C5FD4B5290}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThaiNgocQui_DPM225464_Real07_Bridge", "ThaiNgocQui_DPM225464_Real07_Bridge\ThaiNgocQui_DPM225464_Real07_Bridge.csproj", "{70BAE8AA-0BA4-4406-8166-4CB023BBEA04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{371FE144-BD8D-4F0F-A04C-C4C5FD4B5290}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{371FE144-BD8D-4F0F-A04C-C4C5FD4B5290}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{371FE144-BD8D-4F0F-A04C-C4C5FD4B5290}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{371FE144-BD8D-4F0F-A04C-C4C5FD4B5290}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70BAE8AA-0BA4-4406-8166-4CB023BBEA04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70BAE8AA-0BA4-4406-8166-4CB023BBEA04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70BAE8AA-0BA4-4406-8166-4CB023BBEA04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70BAE8AA-0BA4-4406-8166-4CB023BBEA04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77F6D463-AFF5-44E2-AEED-8A29D9E70198}
+	EndGlobalSection
+EndGlobal
