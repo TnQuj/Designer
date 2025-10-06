@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThaiNgocQui_DPM225464_Pattern14_Command", "ThaiNgocQui_DPM225464_Pattern14_Command\ThaiNgocQui_DPM225464_Pattern14_Command.csproj", "{92A25ACA-B3F1-40BB-9EE4-59F7EF7A4CF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThaiNgocQui_DPM225464_Real14_Command", "ThaiNgocQui_DPM225464_Real14_Command\ThaiNgocQui_DPM225464_Real14_Command.csproj", "{7C6727D3-AD17-4857-ABB6-571BA11B5383}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92A25ACA-B3F1-40BB-9EE4-59F7EF7A4CF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92A25ACA-B3F1-40BB-9EE4-59F7EF7A4CF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92A25ACA-B3F1-40BB-9EE4-59F7EF7A4CF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92A25ACA-B3F1-40BB-9EE4-59F7EF7A4CF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C6727D3-AD17-4857-ABB6-571BA11B5383}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C6727D3-AD17-4857-ABB6-571BA11B5383}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C6727D3-AD17-4857-ABB6-571BA11B5383}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C6727D3-AD17-4857-ABB6-571BA11B5383}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D801BEB5-3C28-40C3-9E49-67F409B42001}
+	EndGlobalSection
+EndGlobal
