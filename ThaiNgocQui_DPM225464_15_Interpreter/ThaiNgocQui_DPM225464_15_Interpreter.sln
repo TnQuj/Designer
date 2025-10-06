@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThaiNgocQui_DPM225464_Pattern15_Interpreter", "ThaiNgocQui_DPM225464_Pattern15_Interpreter\ThaiNgocQui_DPM225464_Pattern15_Interpreter.csproj", "{69D8E039-B670-4DEE-9E4E-A45D8499D01E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThaiNgocQui_DPM225464_Real15_Interpreter", "ThaiNgocQui_DPM225464_Real15_Interpreter\ThaiNgocQui_DPM225464_Real15_Interpreter.csproj", "{82CE9A0C-C780-4B10-9610-F7FF2D0D2A3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69D8E039-B670-4DEE-9E4E-A45D8499D01E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69D8E039-B670-4DEE-9E4E-A45D8499D01E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69D8E039-B670-4DEE-9E4E-A45D8499D01E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69D8E039-B670-4DEE-9E4E-A45D8499D01E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82CE9A0C-C780-4B10-9610-F7FF2D0D2A3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82CE9A0C-C780-4B10-9610-F7FF2D0D2A3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82CE9A0C-C780-4B10-9610-F7FF2D0D2A3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82CE9A0C-C780-4B10-9610-F7FF2D0D2A3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DC43CEE-8652-4240-8934-6439A01177D5}
+	EndGlobalSection
+EndGlobal
